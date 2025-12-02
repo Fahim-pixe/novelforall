@@ -1,14 +1,11 @@
-{
-  "repoName": "novelforall",
-  "repoVersion": 2,
-  "sources": [
-    {
-      "id": "novelpia-global",
-      "name": "Novelpia Global (Login via cookie)",
-      "version": 2,
-      "file": "novelpia-global.zip",
-      "language": "en",
-      "type": "novel"
-    }
-  ]
-}
+[
+  {
+    "id": "novelpia-global",
+    "name": "Novelpia Global (Login via cookie)",
+    "version": 2,
+    "file": "novelpia-global.zip",
+    "language": "en",
+    "type": "novel"
+  }
+]
+
